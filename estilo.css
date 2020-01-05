@@ -1,0 +1,42 @@
+.capt{
+	background-color:black;
+	width: 300px;
+	height:150px;
+	color: green;
+	
+}
+
+#mainCaptcha{
+	position: relative;
+	align-content: center;
+	top: 5px;
+	
+}
+
+#refresh{
+	position:relative;
+	left:100px;
+	width:30px;
+	height:20px;
+	bottom:85px;
+	background-image: url(rpt.jpg);
+}
+
+#txtInput {
+	position: relative;
+	align-content: center;
+	bottom: 30px;
+}
+#Button1 {
+	position: relative;
+	align-content: center;
+	bottom: 30px;
+}
+
+body {
+	background-color: black;
+}
+
+header {
+	color:green;
+}
